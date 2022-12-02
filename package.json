@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Malo-one2000/Coding-Journey#readme",
   "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.7.1",
     "node.js": "^0.0.1-security"
   }
 }
