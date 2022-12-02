@@ -1,0 +1,24 @@
+{
+  "name": "coding-journey",
+  "version": "1.0.0",
+  "description": "This is my personal coding journey follow me as I learn, feel free to make fun of me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malo-one2000/Coding-Journey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malo-one2000/Coding-Journey/issues"
+  },
+  "homepage": "https://github.com/Malo-one2000/Coding-Journey#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.7.1",
+    "node.js": "^0.0.1-security"
+  }
+}
